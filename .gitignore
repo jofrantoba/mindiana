@@ -1,0 +1,8 @@
+bin
+/test-classes
+/test
+/src
+/gwt-unitCache
+/war/WEB-INF/classes
+/war/WEB-INF/deploy
+/war/WEB-INF/lib
