@@ -2,12 +2,8 @@ com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, t
 com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
 com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
 com.indiana.client.service.ServiceGestionMantenimiento, false, false, false, false, _, 2164780086
-com.indiana.server.model.bean.Pais, true, true, true, true, com.indiana.server.model.bean.Pais/3182683455, 3182683455
-@ClientFields,com.indiana.server.model.bean.Pais,idPais,codePais,nombre,urlicono,version,operacion
 com.indiana.shared.UnknownException, true, true, false, false, com.indiana.shared.UnknownException/608910084, 608910084
 java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
-java.lang.Long, true, true, true, true, java.lang.Long/4227064769, 4227064769
-java.lang.Number, true, false, true, false, java.lang.Number/300033342, 300033342
 java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
 java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
 java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
