@@ -6,6 +6,10 @@ B05B1A362FE558D5CC96F498960A0864.cache.js
 phonegap.env no
 user.agent safari
 
+C84AFA9ACF2951A8A67001DA882B3B13.cache.js
+phonegap.env yes
+user.agent safari
+
 D829441E6048E2743DE132FF859BDCC0.cache.js
 phonegap.env no
 user.agent ie8
@@ -17,9 +21,5 @@ user.agent gecko1_8
 F7CF5DD4573796CD5ED67D8E8FC84771.cache.js
 phonegap.env no
 user.agent ie10
-
-F8A6F676192B4B99E65E988AF1E4925E.cache.js
-phonegap.env yes
-user.agent safari
 
 Devmode:devmode.js
